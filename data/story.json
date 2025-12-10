@@ -11,7 +11,7 @@
 		},
 		"date": [
 			{
-				"startDate":"2025,1,17",
+				"startDate":"2025-1-17",
 				"headline":"Nuestra primera vez juntos",
 				"text":"<p>La primera vez que te vi, tenías prisa y no me dejaste verte lo suficiente pero aún así no pude sino pensar en lo guapa que estabas con ese jersey negro y los pantalones vaqueros anchos. </br></br> Recuerdo el paseo por Madrid hasta sentarnos en aquel banco por la noche, donde nos dimos nuestro primer beso. </br> <3</p>",
 				"tag":"Enero",
@@ -24,7 +24,7 @@
 				}
 			},
             {
-				"startDate":"2025,2,14",
+				"startDate":"2025-2-14",
 				"headline":"San Valentín",
 				"text":"<p>Este fin de semana me di cuenta de algo, que eras una chica tan especial que cualquier cosa que hiciéramos juntos se sentía como estar en el paraiso, ir a comprar algo de comidita y ver pekikulas, simplemente me encanta.</p>",
 				"tag":"Febrero",
@@ -37,7 +37,7 @@
 				}
 			},
             {
-				"startDate":"2025,3,31",
+				"startDate":"2025-3-31",
 				"headline":"Noche de pelis",
 				"text":"<p>Esta vez fuimos de nuevo a comprar al xanadoo algo de comida para las pekikulas, pero... Se nos ocurrió comprar un pepinillo asqueroso, que malo estaba... </br> </br>Vimos todas las de Expediente X, tenemos que ver alguna de terror de nuevo ¿Qué te parece?</p>",
 				"tag":"Febrero",
@@ -50,7 +50,7 @@
 				}
 			},
             {
-				"startDate":"2025,4,17",
+				"startDate":"2025-4-17",
 				"headline":"Semana santa",
 				"text":"<p>Nunca me había emocionado por algo religioso, pero al ver las procesiones de Cartagena me di cuenta de que son preciosas, sin duda las mejores del mundo. Tenemos que volver a verlas.</p>",
 				"tag":"Abril",
@@ -63,7 +63,7 @@
 				}
 			},
             {
-				"startDate":"2025,5,1",
+				"startDate":"2025-5-1",
 				"headline":"Concierto Carolina Durante",
 				"text":"<p>El mejor concierto al que he ido (también ha sido el primero), pero contigo sé que aunque hubiera ido a cientos antes seguiría siendo el mejor.</br></br>APARECISTE EN MI VIDA COMO UN MISIL</br>DENTRO DE MÍ AHORA UNA GUERRA CIVIL</br>LLEVABAS UN VESTIDO AZUL MARINO</br>QUE SE MORÍAN LOS PECES AL PASAR POR EL RÍO</br></br><a href='https://open.spotify.com/intl-es/track/38S37OyXCUUnIk3DrvoBUv' target='_blank'>Misil - Carolina Durante</a></p>",
 				"tag":"Mayo",
@@ -76,7 +76,7 @@
 				}
 			},
             {
-				"startDate":"2025,5,26",
+				"startDate":"2025-5-26",
 				"headline":"La Manga",
 				"text":"<p>La primera vez que fuimos a La Manga juntos, que te moje entera, que bien me lo pase :D.</p>",
 				"tag":"Mayo",
@@ -89,7 +89,7 @@
 				}
 			},
              {
-				"startDate":"2025,6,4",
+				"startDate":"2025-6-4",
 				"headline":"Mi cumpleaños",
 				"text":"<p>Hiciste que volviera a tener ilusión por mi cumpleaños y lo convertiste en un día maravilloso. </br></br>Una buena comida, un buen paseo, una buena tarta y por encima de todo eso la mejor compañía.</br></br>Te quiero <3</p>",
 				"tag":"Junio",
@@ -102,7 +102,7 @@
 				}
 			},
             {
-				"startDate":"2025,6,29",
+				"startDate":"2025-6-29",
 				"headline":"Te vas de España",
 				"text":"<p>Este es el día que coges el avión para volar a Japón... No he llorado más en mi vida.</p>",
 				"tag":"Junio",
@@ -115,10 +115,10 @@
 				}
 			},
             {
-				"startDate":"2025,8,6",
+				"startDate":"2025-8-6",
 				"headline":"Voy a verte a Japón",
 				"text":"<p>Sin subirme a un avión nunca me meto en un vuelo de 16 horas para ver a la guapa de mi nobia y tener un viaje increible.</p>",
-				"tag":"Agpsto",
+				"tag":"Agosto",
 				"classname":"optionaluniqueclassnamecanbeaddedhere",
 				"asset": {
 					"media":"http://twitter.com/ArjunaSoriano/status/164181156147900416",
@@ -128,7 +128,7 @@
 				}
 			},
 			{
-				"startDate":"2025,12,17",
+				"startDate":"2025-12-17",
 				"headline":"11 meses juntos",
 				"text":"<p>Hoy vas a subir al avión para volver a España y mañana podremos vernos por fin, se me ha hecho taaaaan largo, tanto tiempo lejos de ti. </br></br>Va a ser un vuelo largo, seguro que estarás nerviosa y con muy pocas ganas de estar tanto tiempo viajando, pero cuando bajes del avión y llegues a España, ya no te tienes que preocupar por nada.</br></br> Estaré esperante.</br>Te quiero</p>",
 				"tag":"Diciembre",
@@ -143,8 +143,8 @@
 		],
 		"era": [
 			{
-				"startDate":"2025,1,17",
-				"endDate":"2026,12,17",
+				"startDate":"2025-1-17",
+				"endDate":"2026-12-17",
 				"headline":"Nuestra historia",
 				"text":"<p>Body text goes here, some HTML is OK</p>",
 				"tag":"This is Optional"
