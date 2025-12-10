@@ -1,50 +1,28 @@
-<!DOCTYPE html>
-<html lang="en">
+<!doctype html>
+<html lang="es">
 <head>
-<title>Nuestra historia</title>
-<meta charset="utf-8">
-<meta name="apple-mobile-web-app-capable" content="yes">
-<meta name="apple-touch-fullscreen" content="yes">
-<meta name="viewport" content="width=device-width, initial-scale=1.0, maximum-scale=1.0">
-<style>html, body {height:100%;padding: 0px;    margin: 0px;    }   </style>
-<script type="text/javascript" src="build/js/jquery.min.js"></script>
+  <meta charset="utf-8">
+  <title>Nuestra historia</title>
+  <meta name="viewport" content="width=device-width,initial-scale=1">
+  <link rel="stylesheet" href="https://cdn.knightlab.com/libs/timeline3/latest/css/timeline.css">
+  <style>
+    html, body { height: 100%; margin: 0; padding: 0; }
+    #timeline-embed { width: 100%; height: 100vh; }
+  </style>
 </head>
 <body>
- <!--  <header class="header" role="banner">
-    <nav class="nav" role="navigation" aria-label="Menú principal">
-    <div class="nav-left">
-    <a href="#" class="nav-link">Inicio</a>
-    </div>
-    <div class="nav-right">
-    <a href="#" class="nav-link">Jueguito</a>
-    </div>
-    </nav>
-  </header> -->
   <div id="timeline-embed"></div>
-  <script type="text/javascript" src="build/js/storyjs-embed.js"></script>
-  <script type="text/javascript">
-    $(document).ready(function() {
-      $.get("/data/story.json", function(data, status) {
-        if (status == "success") {
-          var start = new Date();
-          start.setFullYear(2025,1,17);
-          var end = new Date();
-          end.setFullYear(2025,12,17);
-          var month = (end.getFullYear() - start.getFullYear()) * 12 +
-              (end.getMonth() - start.getMonth());
-          var day = Math.floor((end.getTime() - start.getTime()) / (24 * 60 * 60 * 1000));
-          var hour = Math.floor((end.getTime() - start.getTime()) / (60 * 60 * 1000));
-          
-          createStoryJS({
-            width:  "100%",
-            height: "100%",
-            source: data,
-            lang:   "es",
-            debug:true
-          });
-        }
-      })
-    })
+
+  <!-- TimelineJS (CDN oficial) -->
+  <script src="https://cdn.knightlab.com/libs/timeline3/latest/js/timeline.js"></script>
+  <script>
+    // Cargar el JSON relativo 'data/story.json' (colócalo en la carpeta /data/)
+    // y crear el timeline.
+    // En GitHub Pages la URL relativa funciona: https://TUUSUARIO.github.io/TU-REPO/data/story.json
+    window.timeline = new TL.Timeline('timeline-embed', 'data/story.json', {
+      language: 'es'
+      // Puedes añadir más opciones aquí si quieres.
+    });
   </script>
-  </body>
+</body>
 </html>
