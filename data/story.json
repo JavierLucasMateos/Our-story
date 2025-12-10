@@ -8,7 +8,7 @@
       "credit": "Credit Name Goes Here",
       "caption": "Portada"
     },
-    "date": [
+    "events": [
       {
         "startDate": "2025,1,17",
         "headline": "Nuestra primera vez juntos",
@@ -130,7 +130,7 @@
         }
       }
     ],
-    "era": [
+    "eras": [
       {
         "startDate": "2025,1,17",
         "endDate": "2026,12,17",
