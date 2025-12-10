@@ -4,7 +4,7 @@
     "type": "default",
     "text": "<p>17/01/2025 - Ahora </br></br>Hola mi amor, si todo ha salido bien, estarás viendo esto el 17 de diciembre antes de irte al aeropuerto o ya en este, he recogido un montón de momentos que hemos tenido juntos en una línea de tiempo, espero que te guste.</br></br>Te quiero</br></br><strong>Tu imbecil <3</strong></p>",
     "asset": {
-      "media": "img/portada.jpg",
+      "media": "",
       "credit": "Credit Name Goes Here",
       "caption": "Portada"
     },
@@ -15,8 +15,8 @@
         "text": "<p>La primera vez que te vi, tenías prisa y no me dejaste verte lo suficiente pero aún así no pude sino pensar en lo guapa que estabas con ese jersey negro y los pantalones vaqueros anchos. </br></br> Recuerdo el paseo por Madrid hasta sentarnos en aquel banco por la noche, donde nos dimos nuestro primer beso. </br> <3</p>",
         "tag": "Enero",
         "asset": {
-          "media": "img/event1.jpg",
-          "thumbnail": "img/thumb-event1.jpg",
+          "media": "",
+          "thumbnail": "",
           "credit": "Credit Name Goes Here",
           "caption": "Nuestro primer beso"
         }
@@ -27,8 +27,8 @@
         "text": "<p>Este fin de semana me di cuenta de algo, que eras una chica tan especial que cualquier cosa que hiciéramos juntos se sentía como estar en el paraiso, ir a comprar algo de comidita y ver pekikulas, simplemente me encanta.</p>",
         "tag": "Febrero",
         "asset": {
-          "media": "img/event2.jpg",
-          "thumbnail": "img/thumb-event2.jpg",
+          "media": "",
+          "thumbnail": "",
           "credit": "Credit Name Goes Here",
           "caption": "San Valentín"
         }
@@ -39,8 +39,8 @@
         "text": "<p>Esta vez fuimos de nuevo a comprar al xanadoo algo de comida para las pekikulas, pero... Se nos ocurrió comprar un pepinillo asqueroso, que malo estaba... </br> </br>Vimos todas las de Expediente X, tenemos que ver alguna de terror de nuevo ¿Qué te parece?</p>",
         "tag": "Marzo",
         "asset": {
-          "media": "img/event3.jpg",
-          "thumbnail": "img/thumb-event3.jpg",
+          "media": "",
+          "thumbnail": "",
           "credit": "Credit Name Goes Here",
           "caption": "Noche de películas"
         }
@@ -51,8 +51,8 @@
         "text": "<p>Nunca me había emocionado por algo religioso, pero al ver las procesiones de Cartagena me di cuenta de que son preciosas, sin duda las mejores del mundo. Tenemos que volver a verlas.</p>",
         "tag": "Abril",
         "asset": {
-          "media": "img/event4.jpg",
-          "thumbnail": "img/thumb-event4.jpg",
+          "media": "",
+          "thumbnail": "",
           "credit": "Credit Name Goes Here",
           "caption": "Procesiones en Cartagena"
         }
@@ -63,8 +63,8 @@
         "text": "<p>El mejor concierto al que he ido (también ha sido el primero), pero contigo sé que aunque hubiera ido a cientos antes seguiría siendo el mejor.</br></br>APARECISTE EN MI VIDA COMO UN MISIL</br>DENTRO DE MÍ AHORA UNA GUERRA CIVIL</br>LLEVABAS UN VESTIDO AZUL MARINO</br>QUE SE MORÍAN LOS PECES AL PASAR POR EL RÍO</br></br><a href='https://open.spotify.com/intl-es/track/38S37OyXCUUnIk3DrvoBUv' target='_blank'>Misil - Carolina Durante</a></p>",
         "tag": "Mayo",
         "asset": {
-          "media": "img/event5.jpg",
-          "thumbnail": "img/thumb-event5.jpg",
+          "media": "",
+          "thumbnail": "",
           "credit": "Credit Name Goes Here",
           "caption": "Concierto"
         }
@@ -75,8 +75,8 @@
         "text": "<p>La primera vez que fuimos a La Manga juntos, que te moje entera, que bien me lo pase :D.</p>",
         "tag": "Mayo",
         "asset": {
-          "media": "img/event6.jpg",
-          "thumbnail": "img/thumb-event6.jpg",
+          "media": "",
+          "thumbnail": "",
           "credit": "Credit Name Goes Here",
           "caption": "La Manga"
         }
@@ -87,8 +87,8 @@
         "text": "<p>Hiciste que volviera a tener ilusión por mi cumpleaños y lo convertiste en un día maravilloso. </br></br>Una buena comida, un buen paseo, una buena tarta y por encima de todo eso la mejor compañía.</br></br>Te quiero <3</p>",
         "tag": "Junio",
         "asset": {
-          "media": "img/event7.jpg",
-          "thumbnail": "img/thumb-event7.jpg",
+          "media": "",
+          "thumbnail": "",
           "credit": "Credit Name Goes Here",
           "caption": "Cumpleaños"
         }
@@ -99,8 +99,8 @@
         "text": "<p>Este es el día que coges el avión para volar a Japón... No he llorado más en mi vida.</p>",
         "tag": "Junio",
         "asset": {
-          "media": "img/event8.jpg",
-          "thumbnail": "img/thumb-event8.jpg",
+          "media": "",
+          "thumbnail": "",
           "credit": "Credit Name Goes Here",
           "caption": "Salida a Japón"
         }
@@ -111,8 +111,8 @@
         "text": "<p>Sin subirme a un avión nunca me meto en un vuelo de 16 horas para ver a la guapa de mi nobia y tener un viaje increible.</p>",
         "tag": "Agosto",
         "asset": {
-          "media": "img/event9.jpg",
-          "thumbnail": "img/thumb-event9.jpg",
+          "media": "",
+          "thumbnail": "",
           "credit": "Credit Name Goes Here",
           "caption": "Japón"
         }
@@ -123,8 +123,8 @@
         "text": "<p>Hoy vas a subir al avión para volver a España y mañana podremos vernos por fin, se me ha hecho taaaaan largo, tanto tiempo lejos de ti. </br></br>Va a ser un vuelo largo, seguro que estarás nerviosa y con muy pocas ganas de estar tanto tiempo viajando, pero cuando bajes del avión y llegues a España, ya no te tienes que preocupar por nada.</br></br> Estaré esperante.</br>Te quiero</p>",
         "tag": "Diciembre",
         "asset": {
-          "media": "img/event10.jpg",
-          "thumbnail": "img/thumb-event10.jpg",
+          "media": "",
+          "thumbnail": "",
           "credit": "Credit Name Goes Here",
           "caption": "Vuelta a casa"
         }
