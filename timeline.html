@@ -11,18 +11,46 @@
   </style>
 </head>
 <body>
-  <div id="timeline-embed"></div>
+  <div id="timeline-embed">Cargando timeline…</div>
 
   <!-- TimelineJS (CDN oficial) -->
   <script src="https://cdn.knightlab.com/libs/timeline3/latest/js/timeline.js"></script>
+
   <script>
-    // Cargar el JSON relativo 'data/story.json' (colócalo en la carpeta /data/)
-    // y crear el timeline.
-    // En GitHub Pages la URL relativa funciona: https://TUUSUARIO.github.io/TU-REPO/data/story.json
-    window.timeline = new TL.Timeline('timeline-embed', 'data/story.json', {
-      language: 'es'
-      // Puedes añadir más opciones aquí si quieres.
-    });
+    // Construye la ruta al JSON relativa al site (funciona en GitHub Pages)
+    const jsonPath = (function() {
+      // Si tu repo está en usuario.github.io/repo, pathname incluye /repo/...
+      // Queremos la ruta relativa /repo/data/story.json o /data/story.json según publicación.
+      // Aquí usamos una ruta relativa simple que funciona si index.html y /data/ están en la misma rama/branch/publicación:
+      return 'data/story.json';
+    })();
+
+    async function initTimeline() {
+      try {
+        const res = await fetch(jsonPath, {cache: "no-store"});
+        if (!res.ok) throw new Error(`No se pudo cargar ${jsonPath} (${res.status})`);
+        const data = await res.json();
+
+        // Crea el timeline con el objeto JSON (más robusto que pasar solo URL)
+        window.timeline = new TL.Timeline('timeline-embed', data, {
+          language: 'es'
+          // añade opciones aquí si quieres
+        });
+      } catch (err) {
+        // Muestra error visible y en consola para depuración
+        console.error('Error cargando el timeline:', err);
+        document.getElementById('timeline-embed').innerHTML =
+          '<p style="padding:20px;color:#900">Error al cargar el timeline: ' + err.message + '</p>';
+      }
+    }
+
+    // Espera a que la librería TL esté disponible
+    if (window.TL) {
+      initTimeline();
+    } else {
+      // por si timeline.js tarda en cargar
+      window.addEventListener('load', initTimeline);
+    }
   </script>
 </body>
 </html>
