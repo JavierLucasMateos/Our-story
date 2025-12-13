@@ -7,7 +7,7 @@
     },
     "text": {
       "headline": "Nuestra historia",
-      "text": "<p>17/01/2025 - Ahora<br><br>Hola mi amor, si todo ha salido bien, estarás viendo esto el 17 de diciembre antes de irte al aeropuerto o ya en este, he recogido un montón de momentos que hemos tenido juntos en una línea de tiempo, espero que te guste.<br><br>Te quiero<br><br><strong>Tu imbecil &lt;3</strong></p>"
+      "text": "<p>17/01/2025 - Ahora<br><br>Hola mi amor, si todo ha salido bien, estarás viendo esto el 17 de diciembre, antes de irte al aeropuerto o ya en este, he recogido un montón de momentos con fotos que hemos tenido juntos en una línea de tiempo, espero que te guste.<br><br>Te quiero<br><br><strong>Tu imbecil &lt;3</strong></p>"
     }
   },
   "events": [
@@ -15,7 +15,7 @@
       "start_date": { "year": 2025, "month": 1, "day": 17 },
       "text": {
         "headline": "Nuestra primera vez juntos",
-        "text": "<p>La primera vez que te vi, tenías prisa y no me dejaste verte lo suficiente pero aún así no pude sino pensar en lo guapa que estabas con ese jersey negro y los pantalones vaqueros anchos. <br><br>Recuerdo el paseo por Madrid hasta sentarnos en aquel banco por la noche, donde nos dimos nuestro primer beso. <br>&lt;3</p>"
+        "text": "<p>La primera vez que te vi, tenías tanta prisa que no me dejaste casi ni mirarte, pero aún así no dejaba de pensar en lo guapa que estabas con ese jersey negro y los pantalones vaqueros anchos. <br><br>Recuerdo el paseo por Madrid hasta sentarnos en aquel banco por la noche, donde nos dimos nuestro primer beso. <br>&lt;3</p>"
       },
       "media": { "url": "https://javierlucasmateos.github.io/Our-story/img/0.jpg" },
       "group": "",
@@ -27,7 +27,7 @@
         "headline": "San Valentín",
         "text": "<p>Este fin de semana me di cuenta de algo, que eras una chica tan especial que cualquier cosa que hiciéramos juntos se sentía como estar en el paraiso, ir a comprar algo de comidita y ver pekikulas, simplemente me encanta.</p>"
       },
-      "media": { "url": "" },
+      "media": { "url": "https://javierlucasmateos.github.io/Our-story/img/1.jpg" },
       "group": "",
       "display_date": ""
     },
@@ -37,7 +37,17 @@
         "headline": "Noche de pelis",
         "text": "<p>Esta vez fuimos de nuevo a comprar al xanadoo algo de comida para las pekikulas, pero... Se nos ocurrió comprar un pepinillo asqueroso, que malo estaba... <br><br>Vimos todas las de Expediente X, tenemos que ver alguna de terror de nuevo ¿Qué te parece?</p>"
       },
-      "media": { "url": "" },
+      "media": { "url": "https://javierlucasmateos.github.io/Our-story/img/2.jpg" },
+      "group": "",
+      "display_date": ""
+    },
+    {
+      "start_date": { "year": 2025, "month": 4, "day": 15 },
+      "text": {
+        "headline": "La torre Eiffel",
+        "text": "<p>Te lleve a ver una torre Eiffel de mentira y acabamos viendo un montón.</p>"
+      },
+      "media": { "url": "https://javierlucasmateos.github.io/Our-story/img/3.jpg" },
       "group": "",
       "display_date": ""
     },
@@ -47,7 +57,7 @@
         "headline": "Semana santa",
         "text": "<p>Nunca me había emocionado por algo religioso, pero al ver las procesiones de Cartagena me di cuenta de que son preciosas, sin duda las mejores del mundo. Tenemos que volver a verlas.</p>"
       },
-      "media": { "url": "" },
+      "media": { "url": "https://javierlucasmateos.github.io/Our-story/img/4.jpg" },
       "group": "",
       "display_date": ""
     },
@@ -57,7 +67,7 @@
         "headline": "Concierto Carolina Durante",
         "text": "<p>El mejor concierto al que he ido (también ha sido el primero), pero contigo sé que aunque hubiera ido a cientos antes seguiría siendo el mejor.<br><br>APARECISTE EN MI VIDA COMO UN MISIL<br>DENTRO DE MÍ AHORA UNA GUERRA CIVIL<br>LLEVABAS UN VESTIDO AZUL MARINO<br>QUE SE MORÍAN LOS PECES AL PASAR POR EL RÍO<br><br><a href=\"https://open.spotify.com/intl-es/track/38S37OyXCUUnIk3DrvoBUv\" target=\"_blank\">Misil - Carolina Durante</a></p>"
       },
-      "media": { "url": "" },
+      "media": { "url": "https://javierlucasmateos.github.io/Our-story/img/5.jpg" },
       "group": "",
       "display_date": ""
     },
@@ -67,7 +77,7 @@
         "headline": "La Manga",
         "text": "<p>La primera vez que fuimos a La Manga juntos, que te moje entera, que bien me lo pase :D.</p>"
       },
-      "media": { "url": "" },
+      "media": { "url": "https://javierlucasmateos.github.io/Our-story/img/6.jpg" },
       "group": "",
       "display_date": ""
     },
@@ -75,9 +85,19 @@
       "start_date": { "year": 2025, "month": 6, "day": 4 },
       "text": {
         "headline": "Mi cumpleaños",
-        "text": "<p>Hiciste que volviera a tener ilusión por mi cumpleaños y lo convertiste en un día maravilloso. <br><br>Una buena comida, un buen paseo, una buena tarta y por encima de todo eso la mejor compañía.<br><br>Te quiero &lt;3</p>"
+        "text": "<p>Hiciste que volviera a tener ilusión por mi cumpleaños y lo convertiste en un día maravilloso. Encima no dejamos de encontrar parejas, de doritos, chocolate... Es el destino. <br><br>Una buena comida, un buen paseo, una buena tarta y por encima de todo eso la mejor compañía.<br><br>Te quiero &lt;3</p>"
       },
-      "media": { "url": "" },
+      "media": { "url": "https://javierlucasmateos.github.io/Our-story/img/7.jpg" },
+      "group": "",
+      "display_date": ""
+    },
+    {
+      "start_date": { "year": 2025, "month": 6, "day": 4 },
+      "text": {
+        "headline": "Running Sushi Avatar",
+        "text": "<p>Fuimos otra vez a un running sushi, no recuerddo que mas pasó pero me gusta la foto.</p>"
+      },
+      "media": { "url": "https://javierlucasmateos.github.io/Our-story/img/8.jpg" },
       "group": "",
       "display_date": ""
     },
@@ -87,7 +107,7 @@
         "headline": "Te vas de España",
         "text": "<p>Este es el día que coges el avión para volar a Japón... No he llorado más en mi vida.</p>"
       },
-      "media": { "url": "" },
+      "media": { "url": "https://javierlucasmateos.github.io/Our-story/img/9.jpg" },
       "group": "",
       "display_date": ""
     },
@@ -97,7 +117,7 @@
         "headline": "Voy a verte a Japón",
         "text": "<p>Sin subirme a un avión nunca me meto en un vuelo de 16 horas para ver a la guapa de mi nobia y tener un viaje increible.</p>"
       },
-      "media": { "url": "" },
+      "media": { "url": "https://javierlucasmateos.github.io/Our-story/img/10.jpg" },
       "group": "",
       "display_date": ""
     },
@@ -107,7 +127,7 @@
         "headline": "11 meses juntos",
         "text": "<p>Hoy vas a subir al avión para volver a España y mañana podremos vernos por fin, se me ha hecho taaaaan largo, tanto tiempo lejos de ti. <br><br>Va a ser un vuelo largo, seguro que estarás nerviosa y con muy pocas ganas de estar tanto tiempo viajando, pero cuando bajes del avión y llegues a España, ya no te tienes que preocupar por nada.<br><br> Estaré esperante.<br>Te quiero</p>"
       },
-      "media": { "url": "" },
+      "media": { "url": "https://javierlucasmateos.github.io/Our-story/img/11.jpg" },
       "group": "",
       "display_date": ""
     }
